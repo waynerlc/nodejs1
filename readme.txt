@@ -1,0 +1,1 @@
+mongod --dbpath C:\nodejs\ex1\data
